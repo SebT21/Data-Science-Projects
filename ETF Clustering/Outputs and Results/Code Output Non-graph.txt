@@ -1,0 +1,9 @@
+Hierarchical Clustering Silhouette Score: 0.6681063563740857
+K-Means Clustering Silhouette Score: 0.64258504412043
+New ETFs found similar to the original lists (Hierarchical Clustering):
+['BND', 'HYG', 'LQD', 'BIV', 'SHV', 'MUB', 'PFF', 'XOP', 'USO', 'XME', 'XBI', 'SPY', 'QQQ', 'DIA', 'XLK', 'XLE', 'XLF', 'XLY', 'XLU', 'XLI', 'XLV', 'XLP', 'XLB', 'XLRE', 'XRT', 'XTL', 'XTN', 'XHB', 'IEMG', 'EFA', 'EEM', 'VWO', 'VNQI', 'VEA', 'VTI', 'VTV', 'VO', 'VB', 'TBT', 'GLD', 'SLV', 'REZ', 'KRE', 'IGF', 'SOXX', 'IYR', 'SCHH', 'IJS', 'IWM']
+New ETFs found similar to the original lists (K-Means Clustering):
+['SPY', 'QQQ', 'DIA', 'XLK', 'XLE', 'XLF', 'XLY', 'XLU', 'XLI', 'XLV', 'XLP', 'XLB', 'XLRE', 'XRT', 'XTL', 'XTN', 'XHB', 'IEMG', 'EFA', 'EEM', 'VWO', 'VNQI', 'VEA', 'VTI', 'VTV', 'VO', 'VB', 'GLD', 'SLV', 'REZ', 'IGF', 'IYR', 'SCHH', 'IJS', 'IWM', 'BND', 'HYG', 'LQD', 'BIV', 'SHV', 'MUB', 'PFF', 'XOP', 'TBT', 'USO', 'XME', 'KRE', 'XBI', 'SOXX']
+
+Best Sharpe Ratio: 1.342493161984139
+Best Parameters: Lookback=25, Holding Period=2W-FRI, Weights=(0.4, 0.2, 0.4)
