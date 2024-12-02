@@ -30,8 +30,8 @@ The project aimed to classify human emotions into seven categories: **fear, disg
 
 ## Repository Contents
 
-- **`code/`**: Includes scripts and notebooks for AlexNet and related experiments.
-- **`report/`**: The full project report documenting our methods, analyses, and conclusions.
+- **`AlexNet.ipynb`**: Notebook for all steps used for the modified AlexNet architecture, including data processing and results.
+- **`Project Report`**: The full project report documenting our methods, analyses, and conclusions.
 
 ## Acknowledgments
 
