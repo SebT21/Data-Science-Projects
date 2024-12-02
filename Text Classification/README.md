@@ -41,8 +41,8 @@ The aim of this project was to evaluate the performance of three machine learnin
 
 ## Repository Contents
 
-- **`code/`**: Python scripts implementing SVM, TextCNN, and BiLSTM models, along with preprocessing and evaluation.
-- **`report/`**: The comprehensive project report documenting the methodologies, results, and conclusions.
+- **`Project Code.ipynb`**: Python scripts implementing SVM, TextCNN, and BiLSTM models, along with preprocessing and evaluation.
+- **`Project Report`**: The comprehensive project report documenting the methodologies, results, and conclusions.
 
 ## Acknowledgments
 
