@@ -38,7 +38,7 @@ The goal of this project was to classify ETFs based on **returns** and **volatil
 - **`Code.py`**: Python scripts for data preprocessing, clustering, and rotational momentum analysis.
 - **`Final Report.pdf`**: The final project report, detailing the methodologies, findings, and insights.
 - **`Outputs and Results/`**: Visualizations of clustering results and cumulative returns for the best configuration.
-- - **`Development Project Presentation.pptx`**: Slightly different presentation format of the results, with a closer snapshot of some of the clusters.
+- **`Development Project Presentation.pptx`**: Slightly different presentation format of the results, with a closer snapshot of some of the clusters.
 
 ## Future Work
 
