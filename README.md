@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Python, Machine Learning, and R Projects Geared Towards Data Science
+Projects geared towards Data Science. More analytical or predictive work rather than generative when it comes to AI. That will probaly go in a different folder.
